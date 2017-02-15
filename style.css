@@ -1,3 +1,10 @@
+body {
+  background-color: lightblue;
+  border-color: yellow;
+  border-style: dotted;
+  border-width: 8px;
+}
+
 h1 {
   text-align: center;
   color: blue;
@@ -13,5 +20,5 @@ p1 {
   }
 
 img {
-  float: right;
+ float: center;
 }
