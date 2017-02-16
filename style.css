@@ -25,3 +25,9 @@ img {
  border-color: yellow;
  border-style: normal;
 }
+
+div {
+  background: url(https://raw.githubusercontent.com/Alekazam/Aleks-Site/master/IMG_0820.PNG);
+  background-size: auto;
+  background-repeat: no-repeat;
+  
