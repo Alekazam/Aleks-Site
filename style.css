@@ -21,5 +21,7 @@ p1 {
 
 img {
  float: center;
-  
+ border-radius: 100;
+ border-color: yellow;
+ border-style: normal;
 }
