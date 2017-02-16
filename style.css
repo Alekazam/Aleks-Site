@@ -1,35 +1,7 @@
 body {
   background-color: lightblue;
-  border-color: yellow;
-  border-style: dotted;
-  border-width: 8px;
+
 }
 
-h1 {
-  text-align: center;
-  color: blue;
-  font-family: cursive;
-  font-size: 28px;
-}
 
-p1 {
-  font-size: 24px;
-  font-family: bold;
-  color: green;
-  text-align: center;
-  }
-
-img {
- float: center;
- border-radius: 100;
- border-color: yellow;
- border-style: normal;
-}
-
-style {
-  background: url(https://raw.githubusercontent.com/Alekazam/Aleks-Site/master/IMG_0820.PNG);
-  width: 100px;
-  height: 100px;
-  
-}
   
