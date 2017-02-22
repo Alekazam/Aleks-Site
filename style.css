@@ -7,7 +7,7 @@ body1 {
   position: absolute;
   left: 320px;
   top: 289px;
-  visibility: hidden;
+  visibility: transparent;
 }
 
 style2 {
