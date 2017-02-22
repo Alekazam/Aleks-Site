@@ -1,1 +1,16 @@
+body {
+  background-color: lightblue;
+}
 
+
+h {
+  font-size: 28px;
+  text-decoration: bold, underline;
+  font-family: sans-serif;
+  color: white;
+}
+
+p {
+  font-family: cursive;
+  text-decoration: italic;
+}
