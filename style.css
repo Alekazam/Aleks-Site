@@ -3,14 +3,14 @@ body {
 
 }
 
-.body1 {
+body1 {
   position: absolute;
   left: 100px;
   top: 100px;
   
 }
 
-.style2 {
+style2 {
   position: absolute;
   right: 175px;
   top: 250px;
