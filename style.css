@@ -2,6 +2,7 @@ body {
   background-color: lightblue;
 }
 p1 {
+  position: absolute;
   font-size: 30px;
   color: purple;
   font-family: sans-serif;
