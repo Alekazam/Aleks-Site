@@ -4,7 +4,7 @@ body {
 
 
 h {
-  font-size: 28px;
+  font-size: 38px;
   text-decoration: bold, underline;
   font-family: sans-serif;
   color: white;
@@ -17,5 +17,5 @@ p {
 
 style1 {
   float: right;
-  font-size: 20px;
+  font-size: 30px;
 }
