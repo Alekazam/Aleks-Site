@@ -4,14 +4,14 @@ body {
 }
 
 body1 {
-  position: absolute;
+  position: fixed;
   left: 52px;
   top: 52px;
   
 }
 
 style2 {
-  position: absolute;
+  position: fixed;
   right: 175px;
   top: 250px;
 }
