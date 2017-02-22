@@ -2,10 +2,12 @@ body {
   background-color: lightblue;
 }
 p1 {
-  font-size: 20px;
+  font-size: 30px;
   color: purple;
-  font-family: cursive;
+  font-family: sans-serif;
   text-decoration: bold;
+  bottom: 50;
+  float: middle;
 
 }
 
