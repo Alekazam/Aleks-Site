@@ -3,9 +3,9 @@ body {
 }
 p1 {
   position: absolute;
-  font-size: 30px;
-  color: purple;
-  font-family: sans-serif;
+  font-size: 25px;
+  color: gold;
+  font-family: cursive;
   text-decoration: bold;
   bottom: 50;
   float: middle;
