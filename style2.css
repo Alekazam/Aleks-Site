@@ -1,5 +1,7 @@
 body {
   background-color: lightblue;
+  border-style: dotted;
+  border-color: blue;
 }
 h { 
   font-family: monospace;
