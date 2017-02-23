@@ -1,1 +1,24 @@
+body {
+  background-color: lightblue;
+}
+h { 
+  font-family: monospace;
+  font-size: 22px;
+  }
 
+p {
+  font-family: monospace;
+  font-size: 18px;
+}
+
+a {
+  font-size: 20px;
+}
+
+style1 {
+  float: left;
+}
+
+style2 {
+  float: right;
+}
