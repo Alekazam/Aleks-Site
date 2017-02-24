@@ -8,3 +8,7 @@ table {
   font-size: 22px;
   font-family: monospace;
 }
+
+table, th, td {
+  border: 2px lightblue;
+}
