@@ -26,6 +26,7 @@ a {
 style1 {
   position: absolute;
  bottom: 20px;
+ left: 20px;
  font-size: 24px;
  font-family: monospace;
 }
