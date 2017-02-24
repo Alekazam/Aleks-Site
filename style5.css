@@ -22,3 +22,8 @@ a {
  bottom: 10px;
 }
   
+style1 {
+ bottom: 20px;
+ font-size: 24px;
+ font-family: monospace;
+}
