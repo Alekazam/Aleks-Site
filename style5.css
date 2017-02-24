@@ -9,7 +9,7 @@ table {
   font-family: monospace;
   border-color: white;
   border-style: dotted;
-  border: 2px;
+  border-width: 2px;
 }
 
 table, th, td {
