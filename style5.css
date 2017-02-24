@@ -7,6 +7,9 @@ table {
   color: white;
   font-size: 22px;
   font-family: monospace;
+  border-color: white;
+  border-style: dotted;
+  border: 2px;
 }
 
 table, th, td {
