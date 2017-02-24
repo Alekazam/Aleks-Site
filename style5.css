@@ -1,3 +1,10 @@
 body {
   background-color: lightblue;
 }
+
+table {
+  
+  color: white;
+  font-size: 22px;
+  font-family: monospace;
+}
