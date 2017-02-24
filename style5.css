@@ -16,12 +16,7 @@ table, th, td {
   border: 2px white;
 }
 
-a {
-  position: absolute;
- font-size: 24px;
- font-family: monospace;
- bottom: 10px;
-}
+
   
 style1 {
   position: absolute;
