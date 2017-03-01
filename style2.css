@@ -14,7 +14,7 @@ p {
 }
 
 a {
-  font-size: 20px;
+  font-size: 30px;
 }
 
 style1 {
@@ -23,6 +23,10 @@ style1 {
 
 style2 {
   float: right;
+}
+
+style3 {
+  float: center;
 }
 
 img {
