@@ -24,3 +24,8 @@ style1 {
 style2 {
   float: right;
 }
+
+img {
+  border-color: yellow;
+  border-style: dotted;
+}
