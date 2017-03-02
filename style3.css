@@ -22,10 +22,7 @@ p2 {
   font-size: 20px;
   font-family: monospace;
 }
-style {
-  font-size: 24px;
-  float: right;
-}
+
 style1 {
 font-size: 24px;
 float: left;
@@ -35,7 +32,4 @@ style2 {
   font-size: 24px;
   float: right;
 }
-style3 {
-  font-size: 24px;
-  float: right;
-}
+
