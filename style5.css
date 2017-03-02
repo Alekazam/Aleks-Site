@@ -19,8 +19,9 @@ table, th, td {
 
   
 style1 {
+  top: 300px;
   position: absolute;
- font-size: 24px;
+ font-size: 30px;
  font-family: monospace;
   float: left;
 }
