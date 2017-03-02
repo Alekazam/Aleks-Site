@@ -22,6 +22,7 @@ style1 {
   position: absolute;
  font-size: 24px;
  font-family: monospace;
+  float: left;
 }
 
 style2 {
