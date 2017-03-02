@@ -31,3 +31,8 @@ img {
   border-color: yellow;
   border-style: dotted;
 }
+
+p1 {
+  font-size: 21px;
+  font-family: monospace;
+}
