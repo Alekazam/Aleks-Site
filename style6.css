@@ -3,12 +3,14 @@ body {
 }
 
 h {
-  font-size: 20px;
+  font-size: 25px;
   font-family: sans-serif;
   text-decoration: bold;
+  color: white;
 }
 
 p {
   font-size: 20px;
   font-family: monospace;
+  color: white;
 }
